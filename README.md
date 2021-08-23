@@ -1,3 +1,4 @@
+![ViewsCounter](https://gpvc.arturio.dev/SerenikZ)
 ### Hi there 👋
 
 <!--
